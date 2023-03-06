@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## ✏️ Tech Stack ✏️
 
+<img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
