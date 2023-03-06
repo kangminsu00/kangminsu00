@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-## <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">  출신학교
+## <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">   출신학교
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
