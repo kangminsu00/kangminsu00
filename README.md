@@ -10,8 +10,12 @@ Here are some ideas to get you started:
 
 ## <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">   출신학교
 
-- 초등학교
+- 초/중/고 졸업
   - 서울송화초등학교
+  - 서울삼정중학교
+  - 서울강서공업고등학교
+- 현 재학중
+  - 한세대학교
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
