@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-# <img src="https://img.shields.io/badge/GoogleScholar-#4285F4?style=for-the-badge&logo=GoogleScholar&logoColor=white">출신학교
-🏫
+# <img src="https://img.shields.io/badge/Houzz-4DBC15?style=for-the-badge&logo=Houzz&logoColor=white">출신학교
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
