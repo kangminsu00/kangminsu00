@@ -10,6 +10,9 @@ Here are some ideas to get you started:
 
 ## <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">   출신학교
 
+- 초등학교
+  - 서울송화초등학교
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
